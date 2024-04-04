@@ -16,4 +16,15 @@ body {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  font-size: 12px;
+}
+
+.App-footer a {
+  color: rgb(73, 80, 83);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.App-footer a:hover {
+  text-decoration: underline;
 }
