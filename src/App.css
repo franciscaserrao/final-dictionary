@@ -4,6 +4,11 @@ body {
   margin: 50px 10px;
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-header {
   text-align: center;
 }
